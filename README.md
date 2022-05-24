@@ -1,3 +1,6 @@
+# ICI POUR ESSAYER LE JEU
+https://tekdey-challenges-promo-flamel.github.io/S02E07-Jeu-RPG-Tekdey/
+
 # Challenge RPG
 
 On va refaire le jeu du personnage qui cherche sa mine d'or! 
